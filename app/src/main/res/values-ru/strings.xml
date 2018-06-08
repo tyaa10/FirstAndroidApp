@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Первое приложение андроид</string>
+    <string name="hello">Привет, мир!</string>
+    <string name="click_me">Кликни меня!</string>
+</resources>
